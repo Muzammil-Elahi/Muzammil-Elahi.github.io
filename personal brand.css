@@ -1,7 +1,3 @@
-/* #mainNav {
-    margin-bottom: 25%;
-} */
-
 #mainNav {
     background-color: black;
 }
@@ -33,7 +29,6 @@ h5 {
     height: fit-content;
     max-width: 420px;
     max-height: 420px;
-    /* This will calculate the 100% viewport height minus 50px */
 }
 
 #intro {
@@ -44,16 +39,6 @@ a.nav-item.nav-link {
     color: white;
 }
 
-
-/* a.active {
-    color: black;
-} */
-
-
-/*.jumbotron .bg-dark {
-    background-color: black;
-} */
-
 .jumbotron {
     margin: auto auto;
     background-color: black;
@@ -62,11 +47,6 @@ a.nav-item.nav-link {
 .nav-tabs>div>a.active {
     color: black;
 }
-
-
-/* .custom-toggler .navbar-toggler-icon {
-  border-color: white;
-} */
 
 .carousel {
     margin-top: 20px;
