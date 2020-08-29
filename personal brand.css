@@ -44,6 +44,10 @@ a.nav-item.nav-link {
     background-color: black;
 }
 
+.jumbotron .welcome {
+    margin: 50px 20px 0 20px;
+}
+
 .nav-tabs>div>a.active {
     color: black;
 }
@@ -54,6 +58,7 @@ a.nav-item.nav-link {
 
 .carousel-inner {
     height: 200px;
+    overflow: auto;
 }
 
 .carousel-caption {
@@ -82,6 +87,6 @@ form {
 pre {
     color: white;
     font-family: Lato, sans-serif;
-    /* body is overwritten in pre so have to chnage font here
+    /* body is overwritten in pre so have to change font here
 } */
 }
